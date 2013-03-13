@@ -173,6 +173,7 @@
 			      'height':   options.totalHeight,
 						'top':      0,
 						'left':     options.boxWidth,
+            'backgroundColor': '#ffffff',
 						'position': 'absolute'
 					});
       
